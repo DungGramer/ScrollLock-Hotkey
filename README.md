@@ -1,10 +1,10 @@
 # ScrollLock-Hotkey
 When enable ScrollLock then turn on Macro Key
 
-Before Using: Install <a href="https://www.autohotkey.com/">Autohotkey</a>  
+<b>Before Using:</b> Install <a href="https://www.autohotkey.com/">Autohotkey</a>  
 You can custom your macro after line 8
 
-### Default hotkey:  
+### Default hotkey:
 <b>c: </b> Open Chrome  
 <b>f: </b> Open Facebook  
 <b>d: </b> Open Download  
