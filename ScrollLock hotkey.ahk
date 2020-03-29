@@ -8,7 +8,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 SoundBeep
 c::Run "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 f::Run "https://www.facebook.com/"
-d:: Run, Explorer "D:\Downloads"
+d:: Run, Explorer "%userprofile%/downloads"
 
 ; Windows on Top
 t:: Winset, Alwaysontop, , A
